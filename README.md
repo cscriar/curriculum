@@ -1,3 +1,5 @@
 # curriculum
 Trabalho pós graduação
-sdfsdfs
+
+== PROJETOS PESSOAIS ==
+Viagens
