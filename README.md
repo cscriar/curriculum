@@ -23,8 +23,6 @@ Adobe XD: Design visual de um site mobile (de 28/03/2021 a 01/07/2021) 10hrs
 == HABILIDADES ==
 HTML, CSS, JavaScript, UX, US, Scrum, MySQL
 
-Trabalho pós graduação
-
 == PROJETOS PESSOAIS ==
 Viagens
 
